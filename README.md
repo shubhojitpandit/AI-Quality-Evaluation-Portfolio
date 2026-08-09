@@ -40,7 +40,7 @@ The portfolio follows a progressive structure:
 
 The detailed portfolio documentation explains the evaluation methodology, framework, knowledge domains, demonstrated skills, key findings, and repository structure.
 
-**[View Portfolio Documentation →]((Documentation/AI%20Quality%20Evaluation%20Portfolio%20README.pdf))**
+**[View Portfolio Documentation →](Documentation/AI%20Quality%20Evaluation%20Portfolio%20README.pdf)**
 
 ### Evaluation Batches
 
