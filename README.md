@@ -1,4 +1,4 @@
-# AI Quality Evaluation Project
+# AI Quality Evaluation Portfolio
 
 ### Professional Evaluation of AI-Generated Responses Using Structured Quality Assessment Methodologies
 
